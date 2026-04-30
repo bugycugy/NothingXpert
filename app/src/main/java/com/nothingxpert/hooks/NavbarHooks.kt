@@ -492,7 +492,7 @@ class NavbarHooks : BaseHook() {
         )
 
         private const val PREF_HIDE_IME_BAR = "pref_hide_ime_bar"
-        const val ENABLE_HIDE_NAVBAR = true
+        const val ENABLE_HIDE_NAVBAR = false
         private const val IME_LAYOUT_WATCHER_KEY = "nothingxpert_ime_layout_watcher"
     }
 }
