@@ -131,28 +131,28 @@
     <string name="volume_action_previous">Önceki parça</string>
 
     <!-- Glyphs -->
-    <string name="pref_category_glyphs">Glyphs</string>
-    <string name="glyphs_category_summary">Glyph LED bildirim kontrolleri</string>
+    <string name="pref_category_glyphs">Glifler</string>
+    <string name="glyphs_category_summary">Glif LED bildirim kontrolleri</string>
     <string name="glyphs_device_detected">Tespit edilen: %1$s</string>
     <string name="glyphs_device_testing_as">Test edilen model: %1$s</string>
-    <string name="glyphs_device_unsupported">Desteklenmeyen cihaz — Glyphler için Nothing Phone (1) veya (2) gereklidir</string>
+    <string name="glyphs_device_unsupported">Desteklenmeyen cihaz — Glifler için Nothing Phone (1) veya (2) gereklidir</string>
     <string name="glyphs_device_phone1">Nothing Phone (1)</string>
     <string name="glyphs_device_phone2">Nothing Phone (2)</string>
-    <string name="glyphs_test_model_title">Glyph Model Geçersiz Kılma (Test)</string>
+    <string name="glyphs_test_model_title">Glif Model Geçersiz Kılma (Test)</string>
     <string name="glyphs_test_model_auto">Otomatik (tespit edilen cihaz)</string>
-    <string name="glyphs_test_model_applied">Glyph modeli %1$s olarak ayarlandı</string>
+    <string name="glyphs_test_model_applied">Glif modeli %1$s olarak ayarlandı</string>
 
     <!-- Glyph Per-App Notification -->
-    <string name="glyph_notif_title">Uygulama Başına Glyph Bildirimi</string>
-    <string name="glyph_notif_summary">Bildirim geldiğinde Glyph bölgelerini yak</string>
-    <string name="glyph_notif_enable">Glyph bildirimlerini etkinleştir</string>
-    <string name="glyph_notif_enable_summary">Ekran kapalıyken bildirim geldiğinde Glyphleri aktifleştir</string>
-    <string name="glyph_notif_duration_title">Glyph süresi</string>
+    <string name="glyph_notif_title">Uygulama Başına Glif Bildirimi</string>
+    <string name="glyph_notif_summary">Bildirim geldiğinde Glif bölgelerini yak</string>
+    <string name="glyph_notif_enable">Glif bildirimlerini etkinleştir</string>
+    <string name="glyph_notif_enable_summary">Ekran kapalıyken bildirim geldiğinde Glifleri aktifleştir</string>
+    <string name="glyph_notif_duration_title">Glif süresi</string>
     <string name="glyph_notif_duration_format">%1$d saniye</string>
     <string name="glyph_notif_add_app">Uygulama ekle</string>
     <string name="glyph_notif_no_mappings">Henüz uygulama yapılandırılmadı.\nUygulama eklemek için + simgesine dokunun.</string>
     <string name="glyph_notif_mapping_deleted">Eşleme kaldırıldı</string>
-    <string name="glyph_notif_select_zones">Glyph bölgelerini seçin</string>
+    <string name="glyph_notif_select_zones">Glif bölgelerini seçin</string>
     <string name="glyph_notif_select_app">Bir uygulama seçin</string>
     <string name="glyph_notif_no_zones_selected">Lütfen en az bir bölge seçin</string>
     <string name="glyph_notif_app_already_mapped">Bu uygulama zaten yapılandırılmış</string>
