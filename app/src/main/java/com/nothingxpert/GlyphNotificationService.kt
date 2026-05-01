@@ -2,6 +2,7 @@ package com.nothingxpert
 
 import android.content.ComponentName
 import android.content.Context
+import android.app.NotificationManager
 import android.content.Intent
 import android.content.IntentFilter
 import android.content.SharedPreferences
@@ -36,6 +37,11 @@ import java.util.concurrent.atomic.AtomicBoolean
  */
 class GlyphNotificationService : NotificationListenerService() {
 
+private fun isDndEnabled(): Boolean {
+    val nm = getSystemService(Context.NOTIFICATION_SERVICE) as? NotificationManager
+    return nm?.currentInterruptionFilter != NotificationManager.INTERRUPTION_FILTER_ALL
+}
+    
     companion object {
         private const val TAG = "GlyphNotifService"
         private const val KETCHUM_PKG = "com.nothing.ketchum"
