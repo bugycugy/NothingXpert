@@ -8,6 +8,8 @@
     <string name="pref_single_tap_sleep_summary">Kilit ekranında tek dokunuşla ekranı kapat</string>
     <string name="pref_shuffle_pin_title">PIN tuşlarını karıştır</string>
     <string name="pref_shuffle_pin_summary">Kilit ekranında PIN tuş takımının düzenini rastgele yap</string>
+    <string name="pref_lockscreen_flashlight_tap_title">El feneri kilit ekranı kısayolu</string>
+    <string name="pref_lockscreen_flashlight_tap_summary">El feneri açıkken kilit ekranında dokunulabilir bir uyarı gösterir</string>
     <string name="general_on">Açık</string>
     <string name="general_off">Kapalı</string>
     <string name="restart_systemui">SystemUI\'ı Yeniden Başlat</string>
