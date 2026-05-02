@@ -1,4 +1,5 @@
 <resources>
+    
     <string name="app_name">NothingXpert</string>
     <string name="xposed_description">NothingOS kilit ekranına tek dokunuşla uyutma özelliği ekler.</string>
     <string name="status_text">Tek dokunuşla uyutma, SystemUI içindeki LSPosed kancasıyla yönetilir.</string>
@@ -72,7 +73,6 @@
     <string name="pref_category_notifications">Bildirimler</string>
     <string name="pref_unobtrusive_notifs_screen_on_title">Ekran açıkken sessiz bildirim</string>
     <string name="pref_unobtrusive_notifs_screen_on_summary">Ekran açık ve kilitli değilken bildirim sesi ve titreşimini kapat</string>
-
     <string name="app_lock_button">Uygulama Kilidi</string>
 
     <!-- Undismissable Notifications -->
@@ -90,6 +90,7 @@
     <string name="floating_window_size_small">Küçük</string>
     <string name="floating_window_size_medium">Orta</string>
     <string name="floating_window_size_large">Büyük</string>
+    
     <!-- Language -->
     <string name="pref_category_language">Dil</string>
     <string name="language_category_summary">Uygulama dilini değiştir</string>
@@ -178,4 +179,5 @@
     <string name="glyph_notif_access_title">Bildirim erişimi gerekli</string>
     <string name="glyph_notif_access_summary">Gelen bildirimleri algılamak için bildirim erişimi izni verin</string>
     <string name="glyph_notif_access_button">Ayarları Aç</string>
+    
 </resources>
